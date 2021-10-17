@@ -10,7 +10,7 @@ I am a Machine Learning Engineer. I love experimenting with data.
 
 - 💻  Working as a **Machine Learning Engineer** for [Credit Suisse](https://www.credit-suisse.com/in/en.html/).
 - 📚  Working as a **Technical Reviewer** for [Packt Publications](https://www.packtpub.com/in/)
-- 🌲  Creator of [Forest AI](https://forestai.tech/)
+- 🌲  Creator of [Forest AI](https://forestai.web.app/)
 - 💙 Love everything with Statistics  ⚛️
 
 ### Languages & Libraries I Know
