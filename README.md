@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 </p>
 
+
 <h1 align="center">
 I'm Ratan 🙋‍♂
 </h1>
@@ -15,21 +16,40 @@ I am a Machine Learning Engineer. I love experimenting with data.
 - ⚛️  Contributor for [Fusion](https://fusionhq.co/)
 - 💙 Love everything with Statistics       
 
-### Languages & Libraries I Know
+<hr>
 
+### Languages I Know
+![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&message=3&color=3776AB&logo=PYTHON)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML](https://img.shields.io/static/v1?label=HTML&message=5&color=E34F26&style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=1572B6&style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=for-the-badge&color=F7DF1E&logo=JavaScript)
-![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&message=3&color=3776AB&logo=PYTHON)
+  
+### Machine Learning Frameworks I work with
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
+### Libraries and frameworks I know
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Tech I use
+### Databases I use
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
-![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.48-insider&style=for-the-badge&color=1FC0A7&logo=visual-studio)
-![Github](https://img.shields.io/static/v1?label=GitHub&message=Eventyret&color=181717&style=for-the-badge&logo=github)
-![Google Cloud](https://img.shields.io/static/v1?label=GoogleCloud&message=🚀&color=4285F4&style=for-the-badge&logo=google)
-![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
-![Firebase](https://img.shields.io/static/v1?label=Firebase&style=for-the-badge&message=7.16.0&color=FFCA28&logo=firebase)
+### Operating Systems I have worked with
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<hr>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Ratansingh648&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
