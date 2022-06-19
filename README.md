@@ -8,7 +8,7 @@
 I'm Ratan 🙋‍♂
 </h1>
 I am a Machine Learning Engineer. I love experimenting with data.
-
+- :apple: Working as **Machine Learning Intern** for [Apple](https://www.apple.com/)
 - :microscope: Working as a **Graduate Student Researcher** for [Clifford Lab](http://gdclifford.info/), [Emory University](https://www.emory.edu/home/index.html) 
 - 💻  Worked as a **Machine Learning Engineer** for [Credit Suisse](https://www.credit-suisse.com/in/en.html/)
 - 📚  Worked as a **Technical Reviewer** for [Packt Publications](https://www.packtpub.com/in/)
